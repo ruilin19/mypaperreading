@@ -16,4 +16,4 @@ Pillow 8.4.0
 python demo_player.py
 ```
 ## demo
-![image](https://github.com/zywangwill/a-novice-of-computer-vision/blob/main/kalman_track/demo.gif)) 
+<img src="https://github.com/zywangwill/a-novice-of-computer-vision/blob/main/kalman_track/demo.gif" width="320">
