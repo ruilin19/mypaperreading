@@ -16,4 +16,4 @@ Pillow 8.4.0
 python demo_player.py
 ```
 ## demo
-<iframe height=820 width=820 frameborder="1" src="./demo.gif"></iframe>
+![image](https://github.com/zywangwill/a-novice-of-computer-vision/blob/main/kalman_track/demo.gif)) 
