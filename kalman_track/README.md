@@ -13,7 +13,7 @@ Pillow 8.4.0
 + 目标追踪
 ## run
 ```shell
-python demo_player.py
+python demo.py
 ```
 ## demo
 <img src="https://github.com/zywangwill/a-novice-of-computer-vision/blob/main/kalman_track/demo.gif" width="320">
