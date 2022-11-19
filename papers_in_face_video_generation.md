@@ -1,5 +1,15 @@
 # A Novice in face video generation
 ## Base generate model
+|method|source|
+|:----:|:---|
+|VAE|1. [Auto-Encoding Variational Bayes][1]<br>2. [半小时理解变分自编码器][2]|
+|Diffusion Model|1. [Denoising Diffusion Probabilistic Models][3]<br>2. [Diffusion Models Beat GANs on Image Synthesis][4]<br>3. [A Survey on Generative Diffusion Model][5]|
+|Glow|1. [NICE: NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION][6]<br>2. [DENSITY ESTIMATION USING REAL NVP][7]<br>3. [Glow: Generative Flow with Invertible 1×1 Convolutions][8]<br>4. [Flow-based Generative Model taught by Hung-yi Lee][9]|
+|NeRf|1. [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis][10]|
+|GAN|1. [Generative Adversarial Nets][11]<br>2. [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks][12]<br>3. [A Style-Based Generator Architecture for Generative Adversarial Networks][13]<br>4. [Analyzing and Improving the Image Quality of StyleGAN][14]<br>5. [Alias-Free Generative Adversarial Networks][15]|
+|3DMM|1. [A Morphable Model For The Synthesis Of 3D Faces][16]|
+
+
 [1]:https://arxiv.org/abs/1312.6114
 [2]:https://zhuanlan.zhihu.com/p/144649293
 [3]:https://export.arxiv.org/pdf/2006.11239.pdf
@@ -16,14 +26,6 @@
 [14]:https://arxiv.org/pdf/1912.04958.pdf
 [15]:https://arxiv.org/pdf/2106.12423.pdf
 [16]:https://mi.informatik.uni-siegen.de/projects_data/morphmod1.pdf
-|method|source|
-|:----:|:---|
-|VAE|1. [Auto-Encoding Variational Bayes][1]<br>2. [半小时理解变分自编码器][2]|
-|Diffusion Model|1. [Denoising Diffusion Probabilistic Models][3]<br>2. [Diffusion Models Beat GANs on Image Synthesis][4]<br>3. [A Survey on Generative Diffusion Model][5]|
-|Glow|1. [NICE: NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION][6]<br>2. [DENSITY ESTIMATION USING REAL NVP][7]<br>3. [Glow: Generative Flow with Invertible 1×1 Convolutions][8]<br>4. [Flow-based Generative Model taught by Hung-yi Lee][9]|
-|NeRf|1. [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis][10]|
-|GAN|1. [Generative Adversarial Nets][11]<br>2. [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks][12]<br>3. [A Style-Based Generator Architecture for Generative Adversarial Networks][13]<br>4. [Analyzing and Improving the Image Quality of StyleGAN][14]<br>5. [Alias-Free Generative Adversarial Networks][15]|
-|3DMM|1. [A Morphable Model For The Synthesis Of 3D Faces][16]|
 ## Some papers of face video generation
 ### Paper list
 <span id="jump1"></span>
